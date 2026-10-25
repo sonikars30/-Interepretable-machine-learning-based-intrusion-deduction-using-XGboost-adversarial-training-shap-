@@ -1,0 +1,5 @@
+,accuracy,precision,recall,f1
+Baseline (clean),0.8054,0.9698,0.6793,0.799
+Baseline (adversarial),0.4513,0.7303,0.0572,0.1061
+Robust (clean),0.8088,0.9693,0.6859,0.8033
+Robust (adversarial),0.8086,0.9693,0.6855,0.803

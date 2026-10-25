@@ -1,0 +1,11 @@
+,baseline,robust
+src_bytes,2.7168,1.4783
+same_srv_rate,0.2282,1.3452
+dst_host_srv_count,1.1332,1.1582
+service_private,0.5911,0.6144
+count,0.7721,0.5933
+dst_host_rerror_rate,0.5303,0.5606
+dst_host_same_src_port_rate,0.5613,0.5475
+dst_bytes,0.9717,0.5374
+dst_host_same_srv_rate,0.4215,0.4304
+protocol_type_icmp,0.2686,0.4299
